@@ -1,5 +1,8 @@
 body{
 background-color: black;
-color: rgb(131, 2, 2);
+color: rgb(0, 103, 222);
 font-family: "Story Script", sans-serif;
+}
+header{
+    font-size: 20px;
 }
